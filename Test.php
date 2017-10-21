@@ -9,9 +9,15 @@
 use PHPUnit\Framework\TestCase;
 include_once('FizzBuzz.php');
 
+/**
+ * Class Test
+ */
 class Test extends TestCase
 {
 
+    /**
+     * @return array
+     */
     function fizzBuzzProvider(){
         return array(array(1,1,5),
             array(3,'fizz','should be fizz'),
@@ -31,6 +37,9 @@ class Test extends TestCase
         $this->assertEquals($expected,$calc,$message);
     }
 
+    /**
+     *
+     */
     function testPrintFizzBuzzNumbersBetweenRange(){
         $expected=array(15,30,45,60,75,90,105,120,135,150,165,180,195);
         $fizzBuzz= new FizzBuzz();

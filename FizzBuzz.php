@@ -27,4 +27,17 @@ class FizzBuzz
         }
         return $input;
     }
+
+    public function PrintFizzBuzzNumbersBetweenRance($beginning, $end)
+    {
+        $return =array();
+        for($i=$beginning;$i<=$end;$i++){
+            if($i % 15 == 0 && $i !=0 ){
+                array_push($return,$i);
+            }
+        }
+        return $return;
+
+
+    }
 }

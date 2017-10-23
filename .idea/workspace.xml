@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/FizzBuzz.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -216,7 +216,7 @@
       <updated>1508546874004</updated>
       <workItem from="1508546875133" duration="5919000" />
       <workItem from="1508591620107" duration="2163000" />
-      <workItem from="1508799324502" duration="258000" />
+      <workItem from="1508799324502" duration="300000" />
     </task>
     <servers />
   </component>
@@ -253,7 +253,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8340000" />
+    <option name="totallyTimeSpent" value="8382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1606" height="870" extended-state="6" />
@@ -335,7 +335,7 @@
     <entry file="file://$PROJECT_DIR$/FizzBuzz.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding />
         </state>
       </provider>

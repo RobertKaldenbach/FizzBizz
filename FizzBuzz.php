@@ -30,7 +30,7 @@ class FizzBuzz
         return $input;
     }
 
-    public function PrintFizzBuzzNumbersBetweenRance($beginning, $end)
+    public function PrintFizzBuzzNumbersBetweenRange($beginning, $end)
     {
         $return =array();
         for($i=$beginning;$i<=$end;$i++){

@@ -17,7 +17,7 @@ class FizzBuzz
     }
 
     public function calculateFizzBuzz($input)
-    {
+    {if($input != 0 ){
         if($input % 15 == 0){
             return 'fizzbuzz';
         }elseif($input % 5 == 0){
@@ -25,6 +25,7 @@ class FizzBuzz
         }elseif($input % 3 ==0){
             return 'fizz';
         }
+    }
         return $input;
     }
 

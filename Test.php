@@ -24,7 +24,8 @@ class Test extends TestCase
             array(5,'buzz','should be buzz'),
             array(15,'fizzbuzz','should be fizzbuzz'),
             array(6,'fizz','should be fizz'),
-            array(30,'fizzbuzz','should be fizzbuzz'));
+            array(30,'fizzbuzz','should be fizzbuzz'),
+            array(0,0,'0 should fail'));
     }
 
     /**
